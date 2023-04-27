@@ -3,10 +3,10 @@ import requests
 
 
 #edamam keys
-APP_KEY = "ee44e667d2bd6504b36f6abddcdccea6"
-APP_ID = "217598f8"
+APP_KEY = ""
+APP_ID = ""
 #open ai key
-openai.api_key = "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"
+openai.api_key = "sk-"
 
 history = []
 
