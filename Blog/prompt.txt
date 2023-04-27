@@ -1,0 +1,7 @@
+Write 3 blogs with heading from the following summary:
+
+
+<<BLOG>>
+
+
+CONCISE BLOG:
