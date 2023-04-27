@@ -1,7 +1,7 @@
 import openai
 import datetime
 
-openai.api_key = "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"
+openai.api_key = "sk-"
 history = []
 
 
